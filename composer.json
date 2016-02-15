@@ -1,5 +1,5 @@
 {
-    "name": "phpoffice/phpword",
+    "name": "irond/phpword",
     "description": "PHPWord - A pure PHP library for reading and writing word processing documents (DOCX, ODT, RTF, HTML, PDF)",
     "keywords": [
         "PHP", "PhpOffice", "office", "PhpWord", "word", "template", "template processor", "reader", "writer",
@@ -10,26 +10,7 @@
     "type": "library",
     "license": "LGPL-3.0",
     "authors": [
-        {
-            "name": "Mark Baker"
-        },
-        {
-            "name": "Gabriel Bull",
-            "email": "me@gabrielbull.com",
-            "homepage": "http://gabrielbull.com/"
-        },
-        {
-            "name": "Franck Lefevre",
-            "homepage": "http://blog.rootslabs.net"
-        },
-        {
-            "name": "Ivan Lanin",
-            "homepage": "http://ivan.lanin.org"
-        },
-        {
-            "name": "Roman Syroeshko",
-            "homepage": "http://ru.linkedin.com/pub/roman-syroeshko/34/a53/994/"
-        }
+        
     ],
     "require": {
         "php": ">=5.3.3",
